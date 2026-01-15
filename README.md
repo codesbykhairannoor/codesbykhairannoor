@@ -11,7 +11,7 @@
     <a href="https://khairan.tech">
       <img src="https://img.shields.io/badge/Website-khairan.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/khairan-noor">
+    <a href="https://www.linkedin.com/in/khairannoorfadhlillah/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:mykhairannn@gmail.com">
